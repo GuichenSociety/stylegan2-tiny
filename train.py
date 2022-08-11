@@ -1,6 +1,5 @@
 import math
 from pathlib import Path
-from typing import Iterator, Tuple
 
 import torch
 from torch.utils.data import DataLoader
